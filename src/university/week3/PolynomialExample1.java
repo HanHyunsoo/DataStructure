@@ -1,4 +1,4 @@
-package assignment;
+package university.week3;
 
 /** 두 다항식이 주어지면 더한 다음 출력하는 프로그램을 작성하시오.
     2x^2 + 3x와 x^3 + 3가 주어지면 x^3 + 2x^2 + 3x + 3을 출력
